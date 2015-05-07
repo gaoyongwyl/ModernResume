@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2015.1.3)  5 MAY 2015 18:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2015.1.3)  7 MAY 2015 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,36 +979,37 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 62.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 62.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 99.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 103.
+
 (/usr/share/texlive/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 99.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 103.
  [1
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./apple.jpg
->] (./ygaoResume.bbl
-[2]) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
+>] [2]
+(./ygaoResume.bbl) [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
  [4
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
  (./ygaoResume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
 Package rerunfilecheck Info: File `ygaoResume.out' has not changed.
 (rerunfilecheck)             Checksum: 5178371D603292D460FBEB2498818CEC;1277.
  ) 
 Here is how much of TeX's memory you used:
  24763 strings out of 495035
  432477 string characters out of 6181703
- 519218 words of memory out of 5000000
+ 518218 words of memory out of 5000000
  27487 multiletter control sequences out of 15000+600000
  72779 words of font info for 77 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,18n,59p,783b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,18n,59p,783b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/t
 exlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dv
@@ -1024,7 +1025,7 @@ ic/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsso10
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on ygaoResume.pdf (4 pages, 193619 bytes).
+Output written on ygaoResume.pdf (4 pages, 194536 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  134 compressed objects within 2 object streams
